@@ -53,12 +53,12 @@ path{
 }
 
 .navbar-default {
-    background-color: red; /* Cor de fundo padrão */
+    background-color: #212529; /* Cor de fundo padrão */
     transition: 0.5s;
 }
 
 .navbar-scroll {
-    background-color: black; /* Cor de fundo quando a navbar fica no topo */
+    background-color: #697783; /* Cor de fundo quando a navbar fica no topo */
     transition: background-color 0.5s; /* Efeito de transição suave */
-    color: orange;
+    color: #0E72A3;
 }
