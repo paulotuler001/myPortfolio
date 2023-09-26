@@ -53,12 +53,17 @@ path{
 }
 
 .navbar-default {
-    background-color: black; /* Cor de fundo padrão */
+    background-color: #212529; /* Cor de fundo padrão */
     transition: 0.5s;
 }
 
 .navbar-scroll {
-    background-color: gray; /* Cor de fundo quando a navbar fica no topo */
-    transition: background-color 0.5s; /* Efeito de transição suave */
-    color: cyan;
+    background-color: #697783; /* Cor de fundo quando a navbar fica no topo */
+    transition: background-color 0.s; /* Efeito de transição suave */
+    color: #0E72A3;
 }
+.icon-container {
+    display: inline-block;
+    flex-direction: column;
+    align-items: self-end;
+  }
