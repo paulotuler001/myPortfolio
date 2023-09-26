@@ -1,0 +1,53 @@
+.carousel {
+   max-width: 100%;
+
+     /* Centralize o carousel na página */
+}
+.navbar{
+
+    margin: 0 auto;
+}
+
+/* Largura da barra de rolagem */
+::-webkit-scrollbar {
+    width: 10px;
+}
+
+/* Cor de fundo da barra de rolagem */
+::-webkit-scrollbar-track {
+    background-color: #f1f1f1;
+}
+
+/* Cor do controle deslizante (thumb) da barra de rolagem */
+::-webkit-scrollbar-thumb {
+    background-color: grey;
+}
+
+/* Largura da barra de rolagem horizontal */
+::-webkit-scrollbar-horizontal {
+    height: 10px;
+}
+
+i{
+    color: black;
+}
+
+#zap:hover{
+
+    color: #24CC63;
+}
+#linkedin:hover{
+
+    color: #0E72A3;
+}
+#insta:hover{
+
+    color: #E34F7C;
+}
+#git:hover{
+
+    color: #24292F;
+}
+path{
+    color: #E34F7C;
+}
